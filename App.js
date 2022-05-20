@@ -1,5 +1,5 @@
 //그냥 볼때는 이해가 갔는데 막상 혼자서 만드려니까... 너무 많이 모르겠습니다...
-
+//App.js 텍스트 만들고 값 저장
 import React, { Component, useState } from 'react';
 import './App.css';
 import TodoList from './TodoList.js';

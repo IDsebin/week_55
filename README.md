@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+이론:
 1 . 클래스형 컴포넌트 vs 함수형 컴포넌트 비교 
 
 1) 선언 방식 
