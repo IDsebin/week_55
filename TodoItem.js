@@ -1,3 +1,4 @@
+// 입력된 리스트 삭제
 import React from "react";
 import './TodoItem.css '
 
